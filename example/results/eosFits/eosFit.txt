@@ -1,0 +1,24 @@
+Murnaghan Fit Parameters:
+   A0 = -813859.79252
+   V0 = 308.928
+   B0 = 11.842
+   B0prime = 6.024
+
+Birch-Murnaghan Fit Parameters:
+   A0 = -813859.79698
+   V0 = 308.841
+   B0 = 11.914
+   B0prime = 6.363
+
+Poirier-Tarantola Fit Parameters:
+   A0 = -813859.80874
+   V0 = 308.749
+   B0 = 12.027
+   B0prime = 6.696
+
+Vinet E(V) Fit Parameters:
+   A0 = -813352.58738
+   V0 = 207.809
+   B0 = 36.985
+   B0prime = 5.722
+

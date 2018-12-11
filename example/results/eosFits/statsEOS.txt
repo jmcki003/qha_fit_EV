@@ -1,0 +1,5 @@
+Choosing the Poirier-Tarantola logarithmic EOS fit\n
+#E_fit_type             Max Error (kJ/mol)        Average Error (kJ/mol) 
+Murnaghan		0.172896	0.053954
+Birch-Murnaghan		0.102959	0.034262
+Poirier-Tarantola	0.062456	0.020841
